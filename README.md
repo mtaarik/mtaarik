@@ -41,7 +41,3 @@ Through my experiences, I’ve developed strong skills in data preprocessing, fe
 
 ---
 
-
-## Contact
-* **LinkedIn**: [Mohamed Amine Tarik](https://www.linkedin.com/in/mohamed-amine-tarik)
-* **Email**: m.amine.tarik@gmail.com
