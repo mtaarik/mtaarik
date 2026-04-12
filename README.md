@@ -2,7 +2,7 @@
 
 ## Data Science Student @ ENSIAS | Machine Learning & AI Enthusiast
 
-I’m a Business Intelligence & Analytics student at ENSIAS, passionate about turning data into meaningful insights and building intelligent systems. 
+I’m a Business Intelligence & Analytics student at ENSIAS with a strong focus on Data Science, passionate about turning data into meaningful insights and building intelligent systems. 
 
 I follow a build-to-learn approach, working on hands-on projects—from real-time data pipelines with Kafka and Airflow to data warehouses, and advanced machine learning models to extract value from data. I enjoy tackling real-world problems such as forecasting, optimization, and pattern discovery.
 
