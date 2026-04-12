@@ -31,7 +31,7 @@ Through my experiences, I’ve developed strong skills in data preprocessing, fe
 ### Business Intelligence
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-* **Frameworks**: SSAS, SSIS, ETL/ELT, Data Cleaning, DAX.
+* **Frameworks**: SSAS, SSIS, ETL/ELT, Data Cleaning.
 
 ### Engineering & Tools
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,13 +41,7 @@ Through my experiences, I’ve developed strong skills in data preprocessing, fe
 
 ---
 
-## Education
-* **Engineering Degree in Business Intelligence & Analytics**: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS) | 2024 - 2027
-* **Preparatory Classes (CPGE) - MPSI-MP Track**: Lycée Mohammed V | 2022 - 2024
-
----
 
 ## Contact
 * **LinkedIn**: [Mohamed Amine Tarik](https://www.linkedin.com/in/mohamed-amine-tarik)
 * **Email**: m.amine.tarik@gmail.com
-* **Languages**: French (Fluent), English (Fluent), Arabic (Native)
