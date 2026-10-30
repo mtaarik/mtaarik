@@ -79,4 +79,4 @@ DAX, Power Query, SSAS, SSIS.
 
 ## Languages
 
-French, English (fluent) · Arabic (native)
+French  (fluent) . English (fluent) · Arabic (native)
