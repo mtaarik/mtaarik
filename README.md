@@ -6,7 +6,7 @@ deployment, and the data pipelines that feed them.
 
 🎯 Looking for a **final-year internship (PFE) in Data Science** (or Data Engineering) from **February 2027**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amine_Tarik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-tarik-bba843321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Amine_Tarik-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-tarik)
 [![Email](https://img.shields.io/badge/Email-m.amine.tarik%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:m.amine.tarik@gmail.com)
 
 ---
